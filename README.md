@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About Me
+A very observant and result-driven Full stack web developer with a specialization in the frontend,
+dedicated to building and optimizing user-focused websites for customers.
+
+## 🛠 Skills
+Javascript, HTML, CSS, React, Node.js, Express, REST api, MongoDb, DSA
