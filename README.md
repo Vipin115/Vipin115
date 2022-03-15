@@ -12,9 +12,9 @@
 
 - 📝 I write articles on [https://medium.com/@vipinawd115](https://medium.com/@vipinawd115)
 
-- 💬 Ask me about **React, Redux, DSA, Backend development with Node js,**
+- 💬 Ask me about **React, Redux, DSA, Javascript, api's development**
 
-- 📫 How to reach me **vipinawd115@gmail.com**
+- 📫 Contact me **vipinawd115@gmail.com**
 
 
 <h3 align="left">Lets Connect:</h3>
