@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://competent-rosalind-f46607.netlify.app/](https://competent-rosalind-f46607.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://golden-liger-dc3383.netlify.app/](https://golden-liger-dc3383.netlify.app/)
 
 - 📝 I write articles on [https://medium.com/@vipinawd115](https://medium.com/@vipinawd115)
 
