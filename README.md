@@ -12,7 +12,7 @@
 
 - 📝 I write articles on [https://medium.com/@vipinawd115](https://medium.com/@vipinawd115)
 
-- 💬 Ask me about **Html, React, Redux, DSA, Javascript, api's development**
+- 💬 Ask me about **Html, React,VueJs, Redux, DSA, Javascript, api's development**
 
 - 📫 Contact me **vipinawd115@gmail.com**
 
